@@ -55,8 +55,9 @@ li:hover{
   background: rgba(0,0,0,0.2);
 }
 h1{
-  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7), url(./computer2.jpg)) center;
+  background: url(../asset/computer2.jpg) no-repeat center;
   margin-bottom: 0;
-  text-indent: -10000px;
+  text-align: center;
+  
 
 }
